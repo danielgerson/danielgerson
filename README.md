@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**danielgerson/danielgerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Daniel Barrios here 👋
+[![Twitter URL](https://img.shields.io/twitter/url?label=Daniel%20Barrios&logo=twitter&logoColor=1DA1F2&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fdanigerson19)](https://mobile.twitter.com/danigerson19)
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
