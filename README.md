@@ -21,7 +21,7 @@
 
 - 👨‍🏫 Pasión por enseñar.
 - 🌱 Empatía, sociabilidad y comunicación.
-- ⏰ Responsable.
+- ⏰ Responsable y puntual.
 - 😊 Fácil adaptación a los cambios.
 - 🎨 Creativo e innovador.
 - 📚 Autodidacta.
