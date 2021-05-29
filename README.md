@@ -25,5 +25,5 @@
 - 😊 Fácil adaptación a los cambios.
 - 🎨 Creativo e innovador.
 - 📚 Autodidacta.
-- 😄 Proactivo e eficiente.
+- 😄 Proactivo y eficiente.
 - ⚡ Facilidad por aparender.
