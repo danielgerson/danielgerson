@@ -27,3 +27,7 @@
 - 📚 Autodidacta.
 - 😄 Proactivo y eficiente.
 - ⚡ Facilidad por aparender.
+
+---
+
+- :briefcase: Portafolio en construcción.
